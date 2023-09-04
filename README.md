@@ -1,4 +1,4 @@
-## Live link `https://manku19978.github.io/avataar-test/`
+## Live link [https://manku19978.github.io/avataar-test/](https://manku19978.github.io/avataar-test/)
 
 ### `npm install`
 
