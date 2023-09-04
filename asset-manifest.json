@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/avataar-test/static/css/main.53ea7800.css",
+    "main.js": "/avataar-test/static/js/main.f78fe6de.js",
+    "index.html": "/avataar-test/index.html",
+    "main.53ea7800.css.map": "/avataar-test/static/css/main.53ea7800.css.map",
+    "main.f78fe6de.js.map": "/avataar-test/static/js/main.f78fe6de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53ea7800.css",
+    "static/js/main.f78fe6de.js"
+  ]
+}
