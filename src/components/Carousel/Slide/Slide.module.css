@@ -1,0 +1,10 @@
+.container {
+  width: 789px;
+  height: 520px;
+  border-radius: 25.258px;
+  border: 1.075px solid #fff;
+  box-shadow: 0px 9px 9px 0px rgba(19, 101, 226, 0.2);
+  font-size: 69px;
+  font-weight: 900;
+  background: crimson;
+}

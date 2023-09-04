@@ -1,0 +1,33 @@
+body {
+  font-family: Lato;
+}
+
+* {
+  top: 0;
+  left: 0;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Lato', sans-serif;
+}
+
+.flex {
+  display: flex;
+}
+
+.jc {
+  justify-content: center;
+}
+
+.jb {
+  justify-content: space-between;
+}
+
+.ac {
+  align-items: center;
+}
